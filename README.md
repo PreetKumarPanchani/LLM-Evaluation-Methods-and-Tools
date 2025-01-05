@@ -16,9 +16,9 @@ A comprehensive framework for evaluating and comparing different Large Language 
 🔍 Reason tracking
 
 Model Performance Metrics
-
-Relevancy: Measures how well responses address the questions
-
-Faithfulness: Evaluates alignment with provided context
-
-Hallucination: Detects fabricated information
+    
+    Relevancy: Measures how well responses address the questions
+    
+    Faithfulness: Evaluates alignment with provided context
+    
+    Hallucination: Detects fabricated information
